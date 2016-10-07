@@ -4,7 +4,7 @@ html, body {
 }
 
 #wrapper {
-	min-height: 100%; 
+	min-height: 90%; 
 	background-image: url(Icon1024.png);
 	background-repeat: no-repeat;
 	background-position: center center;
