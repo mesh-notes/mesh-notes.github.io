@@ -202,6 +202,7 @@ a:active {
     width: 18px;
     position: absolute;
     top: 50%;
+    left: 50%
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -224,6 +225,7 @@ a:active {
     width: 18px;
     position:absolute;
     top: 50%;
+    left: 50%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -233,7 +235,7 @@ a:active {
     z-index: 1;
 }
 
-/* typed.js */
+/* typed.js by Matt Boldt http://www.mattboldt.com/demos/typed-js/*/
 .typed-cursor{
     color: #354EED;
     opacity: 1;
