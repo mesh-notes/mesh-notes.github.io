@@ -223,13 +223,13 @@ a:active {
     -webkit-border-radius: 18px;
     height: 18px;
     width: 18px;
-    position:absolute;
+    position: absolute;
     top: 50%;
-    left: 50%;
+    left: 50%
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    -webkit-animation: pulsate1 4s ease-in;
+    -webkit-animation: pulsate1 4s ease-out;
     -webkit-animation-iteration-count: infinite; 
     opacity: 0.0;
     z-index: 1;
